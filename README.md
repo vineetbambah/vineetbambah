@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Montrol](https://github.com/vineetbambah/daily-budget)
 
-- 🤝 I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](www.nitj.ac.in)
+- 🤝 I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-fQKqK8zVdtNli06EVVdpVbzS62SUmtV/view?usp=sharing)
 
