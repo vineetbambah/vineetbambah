@@ -10,11 +10,6 @@
 ## 📊 Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetbambah&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vineetbambah&icon=0&color=9)](https://visitcount.itsvg.in)
