@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on [Montrol](https://github.com/vineetbambah/daily-budget)<br>🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lB2k8lyLG-8umtePhSHYDLDDBdUeDvp0/view?usp=sharing)
+🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lB2k8lyLG-8umtePhSHYDLDDBdUeDvp0/view?usp=sharing)
 
 
 ## 🌐 Socials:
