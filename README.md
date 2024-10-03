@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wawlUO9Ida0kLHPG5rmCQDPZw3J4q7UC/view)
+🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-fQKqK8zVdtNli06EVVdpVbzS62SUmtV/view)
 
 
 ## 🌐 Socials:
