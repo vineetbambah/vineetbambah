@@ -1,11 +1,7 @@
 ## 💫 About Me:
 🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-fQKqK8zVdtNli06EVVdpVbzS62SUmtV/view?usp=drive_link)
-
-
+## 👤 Profile Stats:
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vineetbambah)](https://git.io/streak-stats)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetbambah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vineetbambah)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vineetbambah) 
-
-##  Profile Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vineetbambah&hide_border=true)][https://github.com/vineetbambah]
----
-[![](https://visitcount.itsvg.in/api?id=vineetbambah&icon=0&color=9)](https://visitcount.itsvg.in)
+[![E-Mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neozvbambah@gmail.com)[![GitLab](	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vineetbambah)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetbambah)[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vineetbambah)
+<!--[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vineetbambah)[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vineetbambah/)[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/neozVBambah)[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/neoz)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vineetbambah) -->
