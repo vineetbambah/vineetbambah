@@ -6,6 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetbambah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vineetbambah)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vineetbambah) 
 
 ##  Profile Stats:
-![vineetbambah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineetbambah&theme=highcontrast&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vineetbambah&hide_border=true)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=vineetbambah&icon=0&color=9)](https://visitcount.itsvg.in)
