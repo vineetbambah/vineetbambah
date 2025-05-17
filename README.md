@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-fQKqK8zVdtNli06EVVdpVbzS62SUmtV/view?usp=drive_link)
+🎓I’m currently pursuing an Enggineering Degree at [NIT Jalandhar](https://www.nitj.ac.in)<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HCGRrIyfx6XVK_JUMS-Ss6cRn1m4N6Id/view?usp=sharing)
 ## 👤 Profile Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vineetbambah)](https://git.io/streak-stats)
 ## 🌐 Socials:
