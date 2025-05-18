@@ -1,1 +1,1 @@
-engineer & student, you can find me on [X](https://x.com/vineetbambah) and [LinkedIn](https://linkedin.com/in/vineetbambah) or mail me at neozvbambah@gmail.com 
+engineer & student, you can [book a call](https://cal.com/vineetbambah/15min) with me to discuss about anything.
